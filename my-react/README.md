@@ -6,6 +6,7 @@ CREATING AN ORIGINAL PORTFOLIO USING THE AMAZING REACT LIBRARY:
 - react js
 - node js
 - html/css
+- react-bootsrtap
 
 #### Deploy
 [live link](https://luvkil.github.io/react-portfolio-two/)
