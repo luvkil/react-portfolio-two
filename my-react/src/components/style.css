@@ -1,0 +1,104 @@
+
+body{
+  color: goldenrod;
+}
+
+.image{
+    background-image: url("../components/images/blue-tech.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    position: relative;
+    margin-top: 30px;
+}
+
+
+.second{
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 32px;
+    text-align: center;
+
+    position: absolute;
+    top:40%;
+    left:33%;
+}
+
+
+
+.image-2{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.image-2-p{
+    border-radius:50% ;
+    padding: 20px;
+}
+
+.profile{
+    
+    text-align: center;
+    color:goldenrod;
+    background-color:rgb(78, 78, 124);
+    margin-top: 10%;
+    padding: 10px;
+    
+}
+
+
+.contact{
+    margin-top: 50px;
+    width:50%;
+    background-image: url("../components/images/blue-tech.jpg");
+    background-position: center;
+    background-size: cover;
+    color: goldenrod;
+}
+
+navbar{
+  display: flex;
+  justify-content: center;
+}
+
+.project-image{
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-1{
+  width:300px;
+  height: 300px;
+  border: solid 0.5px;
+  border-color: blueviolet;
+  margin-left: 2%;
+  text-align: center;
+}
+
+
+
+.project-1 img{
+  width: 100%;
+  height:100%;
+  background-color:rgb(78, 78, 124) ;
+
+}
+
+.links{
+  margin-top: 10px;
+}
+
+.links a{
+  text-decoration: none;
+  text-decoration-color: none;
+  color: blueviolet;
+}
+
+.contact{
+  padding:10px;
+}
+
+.form-header{
+  margin-left: 35%;
+}

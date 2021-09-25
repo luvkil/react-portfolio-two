@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Movie-Match-Maker",
+    "image":"#",
+    "theme": "A movie and drink app",
+    "tools": "javaScript"
+  },
+  {
+    "id": 2,
+    "name": "javaScipt Quiz",
+    "image":"./public/logo192.png",
+    "theme":"#", 
+    "tools": "javaSript"
+  },
+  {
+    "id": 3,
+    "name": "Ecommerce",
+    "image": "#",
+    "theme": "Online business",
+    "tools": "javaScript, Node.js"
+  },
+  {
+    "id": 4,
+    "name": "Daily-planner",
+    "image": "#",
+    "theme": "An app for busy people",
+    "tools": "javaScript,Html,Css"
+  },
+  {
+    "id": 5,
+    "name": "Team-Generator",
+    "image": "#",
+    "Theme": "App that creates proffessional readme",
+    "tools": "javaScript, inquirer, Node.js"
+  },
+  {
+    "id": 6,
+    "name": "Budget-Tracker",
+    "image": "#",
+    "theme": "An app that keeps track of budget",
+    "tools": "javaScript"
+  },
+  {
+    "id": 7,
+    "name": "Employee-Tracker",
+    "image": "#",
+    "theme": "Keeps track of employee basic info",
+    "Tools": "Node.js"
+  },
+  {
+    "id": 8,
+    "name": "project-2",
+    "image": "#",
+    "theme": "keeps track of time",
+    "tools": "javaScript"
+  },
+  {
+    "id": 9,
+    "name": "project-3",
+    "image": "#",
+    "Theme": "An app that inputs patient info",
+    "tools": "MERN"
+  },
+  {
+    "id": 10,
+    "name": "Readme-Generator",
+    "image": "#",
+    "Theme": "An app that generates proffessional readme",
+    "Tools": "javaScript, Node.js"
+  }
+  
+]
