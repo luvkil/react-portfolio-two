@@ -26,7 +26,7 @@ function blogPage (){
                  <div className="project-1 quiz">
                     <img src = {Img2} alt="project"/>
 
-                    <div className="links"><a href="https://github.com/luvkil/javascript-code-quiz"><p>daily-planner</p></a></div>
+                    <div className="links"><a href="https://github.com/luvkil/my-daily-planner.git"><p>daily-planner</p></a></div>
                 </div>
                 
                  <div className="project-1 note">
