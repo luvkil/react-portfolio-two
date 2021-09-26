@@ -32,7 +32,7 @@ function blogPage (){
                  <div className="project-1 note">
                     <img src = {Img3} alt="project"/>
 
-                    <div className="links"><a href="https://github.com/evperkinsjr/movie-drink-matchmaker"><p>the match maker</p></a></div>
+                    <div className="links"><a href="https://github.com/evperkinsjr/movie-drink-matchmaker.git"><p>the match maker</p></a></div>
                 </div>
 
                  <div className="project-1 blue-tech">
