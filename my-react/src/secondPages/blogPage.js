@@ -38,7 +38,7 @@ function blogPage (){
                  <div className="project-1 blue-tech">
                     <img src = {Img4} alt="project"/>
 
-                    <div className="links" ><a href="https://github.com/luvkil/javascript-code-quiz"><p>budget tracker</p></a></div>
+                    <div className="links" ><a href="https://lifestyle-budget.herokuapp.com/"><p>budget tracker</p></a></div>
                 </div>
 
 
